@@ -1,0 +1,3 @@
+# Keratoconus-Explainable-AI
+
+This study explores the application of artificial intelligence (AI) for the early detection of Keratoconus, a progressive corneal disorder affecting vision. Leveraging custom convolutional neural network (CNN) architectures and transfer learning models like EfficientNet, the research aims to enhance the accuracy of KC diagnosis from corneal images. The results demonstrate the potential of AI in distinguishing between normal eyes, existing KC cases, and suspected instances with high precision. By addressing issues of overfitting and model generalization, the study contributes to advancing the effectiveness of AI in diagnosing KC, crucial for timely intervention and treatment strategies in ophthalmology.
